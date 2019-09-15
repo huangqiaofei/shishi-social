@@ -1,0 +1,178 @@
+2019-09-15 15:35:02,874 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@6800f335 {POS} {IP-UPDATE} [192.168.1.102:8000:unknown_1.0_true_false_DEFAULT], action: remove
+
+2019-09-15 15:35:02,874 INFO dom: uaa-server {POS} {IP-REMV} new: [{"app":"","clusterName":"DEFAULT","enabled":true,"instanceId":"","ip":"192.168.1.102","lastBeat":1568532902873,"marked":false,"metadata":{},"port":8000,"serviceName":"","tenant":"","valid":true,"weight":1}] operatorIP: unknown
+
+2019-09-15 15:35:02,874 INFO uaa-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.102:8000:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:35:02,874 INFO [IP-UPDATED] dom: uaa-server, ips: 
+
+2019-09-15 15:35:02,968 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@43c7bdc7 {POS} {IP-UPDATE} [192.168.1.102:7003:unknown_1.0_true_false_DEFAULT], action: remove
+
+2019-09-15 15:35:02,968 INFO dom: order-center {POS} {IP-REMV} new: [{"app":"","clusterName":"DEFAULT","enabled":true,"instanceId":"","ip":"192.168.1.102","lastBeat":1568532902968,"marked":false,"metadata":{},"port":7003,"serviceName":"","tenant":"","valid":true,"weight":1}] operatorIP: unknown
+
+2019-09-15 15:35:02,968 INFO order-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.102:7003:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:35:02,968 INFO [IP-UPDATED] dom: order-center, ips: 
+
+2019-09-15 15:35:03,032 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@2735f507 {POS} {IP-UPDATE} [192.168.1.102:7001:unknown_1.0_true_false_DEFAULT], action: remove
+
+2019-09-15 15:35:03,032 INFO dom: member-center {POS} {IP-REMV} new: [{"app":"","clusterName":"DEFAULT","enabled":true,"instanceId":"","ip":"192.168.1.102","lastBeat":1568532903031,"marked":false,"metadata":{},"port":7001,"serviceName":"","tenant":"","valid":true,"weight":1}] operatorIP: unknown
+
+2019-09-15 15:35:03,032 INFO member-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.102:7001:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:35:03,032 INFO [IP-UPDATED] dom: member-center, ips: 
+
+2019-09-15 15:35:03,091 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@3c063b35 {POS} {IP-UPDATE} [192.168.1.102:7002:unknown_1.0_true_false_DEFAULT], action: remove
+
+2019-09-15 15:35:03,091 INFO dom: goods-center {POS} {IP-REMV} new: [{"app":"","clusterName":"DEFAULT","enabled":true,"instanceId":"","ip":"192.168.1.102","lastBeat":1568532903090,"marked":false,"metadata":{},"port":7002,"serviceName":"","tenant":"","valid":true,"weight":1}] operatorIP: unknown
+
+2019-09-15 15:35:03,091 INFO goods-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.102:7002:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:35:03,091 INFO [IP-UPDATED] dom: goods-center, ips: 
+
+2019-09-15 15:35:03,150 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@6a1299d8 {POS} {IP-UPDATE} [192.168.1.102:7004:unknown_1.0_true_false_DEFAULT], action: remove
+
+2019-09-15 15:35:03,150 INFO dom: marking-center {POS} {IP-REMV} new: [{"app":"","clusterName":"DEFAULT","enabled":true,"instanceId":"","ip":"192.168.1.102","lastBeat":1568532903150,"marked":false,"metadata":{},"port":7004,"serviceName":"","tenant":"","valid":true,"weight":1}] operatorIP: unknown
+
+2019-09-15 15:35:03,150 INFO marking-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.102:7004:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:35:03,151 INFO [IP-UPDATED] dom: marking-center, ips: 
+
+2019-09-15 15:35:03,198 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@3b38be00 {POS} {IP-UPDATE} [192.168.1.102:7005:unknown_1.0_true_false_DEFAULT], action: remove
+
+2019-09-15 15:35:03,198 INFO dom: cms-center {POS} {IP-REMV} new: [{"app":"","clusterName":"DEFAULT","enabled":true,"instanceId":"","ip":"192.168.1.102","lastBeat":1568532903198,"marked":false,"metadata":{},"port":7005,"serviceName":"","tenant":"","valid":true,"weight":1}] operatorIP: unknown
+
+2019-09-15 15:35:03,198 INFO cms-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.102:7005:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:35:03,198 INFO [IP-UPDATED] dom: cms-center, ips: 
+
+2019-09-15 15:35:03,288 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@7b62e4b1 {POS} {IP-UPDATE} [192.168.1.102:7000:unknown_1.0_true_false_DEFAULT], action: remove
+
+2019-09-15 15:35:03,288 INFO dom: user-center {POS} {IP-REMV} new: [{"app":"","clusterName":"DEFAULT","enabled":true,"instanceId":"","ip":"192.168.1.102","lastBeat":1568532903287,"marked":false,"metadata":{},"port":7000,"serviceName":"","tenant":"","valid":true,"weight":1}] operatorIP: unknown
+
+2019-09-15 15:35:03,288 INFO user-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.102:7000:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:35:03,288 INFO [IP-UPDATED] dom: user-center, ips: 
+
+2019-09-15 15:35:13,886 INFO {POS} {IP-DISABLED} valid: 192.168.1.102:8080@DEFAULT, region: unknown, msg: client timeout after 15000, last beat: 1568532898375
+
+2019-09-15 15:35:28,903 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@5843f568 {POS} {IP-UPDATE} [192.168.1.102:8080:unknown_1.0_true_false_DEFAULT], action: remove
+
+2019-09-15 15:35:28,903 INFO dom: api-gateway {POS} {IP-REMV} new: 192.168.1.102:8080_1.0_DEFAULT operatorIP: unknown
+
+2019-09-15 15:35:28,904 INFO api-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.102:8080:unknown_1.0_false_false_DEFAULT]
+
+2019-09-15 15:35:28,904 INFO [IP-UPDATED] dom: api-gateway, ips: 
+
+2019-09-15 15:40:51,494 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@6800f335 {POS} {IP-UPDATE} [192.168.1.102:8000:unknown_1.0_true_false_DEFAULT], action: add
+
+2019-09-15 15:40:51,494 INFO uaa-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.102:8000:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:40:51,494 INFO [IP-UPDATED] dom: uaa-server, ips: 192.168.1.102:8000_true,
+
+2019-09-15 15:41:27,865 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@3b38be00 {POS} {IP-UPDATE} [192.168.1.102:7005:unknown_1.0_true_false_DEFAULT], action: add
+
+2019-09-15 15:41:27,865 INFO cms-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.102:7005:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:41:27,865 INFO [IP-UPDATED] dom: cms-center, ips: 192.168.1.102:7005_true,
+
+2019-09-15 15:41:40,031 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@5843f568 {POS} {IP-UPDATE} [192.168.1.102:8080:unknown_1.0_true_false_DEFAULT], action: add
+
+2019-09-15 15:41:40,031 INFO api-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.102:8080:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:41:40,032 INFO [IP-UPDATED] dom: api-gateway, ips: 192.168.1.102:8080_true,
+
+2019-09-15 15:42:16,312 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@7b62e4b1 {POS} {IP-UPDATE} [192.168.1.102:7000:unknown_1.0_true_false_DEFAULT], action: add
+
+2019-09-15 15:42:16,312 INFO user-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.102:7000:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:42:16,312 INFO [IP-UPDATED] dom: user-center, ips: 192.168.1.102:7000_true,
+
+2019-09-15 15:42:25,823 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@43c7bdc7 {POS} {IP-UPDATE} [192.168.1.102:7003:unknown_1.0_true_false_DEFAULT], action: add
+
+2019-09-15 15:42:25,824 INFO order-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.102:7003:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:42:25,824 INFO [IP-UPDATED] dom: order-center, ips: 192.168.1.102:7003_true,
+
+2019-09-15 15:42:36,751 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@2735f507 {POS} {IP-UPDATE} [192.168.1.102:7001:unknown_1.0_true_false_DEFAULT], action: add
+
+2019-09-15 15:42:36,751 INFO member-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.102:7001:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:42:36,751 INFO [IP-UPDATED] dom: member-center, ips: 192.168.1.102:7001_true,
+
+2019-09-15 15:42:48,806 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@6a1299d8 {POS} {IP-UPDATE} [192.168.1.102:7004:unknown_1.0_true_false_DEFAULT], action: add
+
+2019-09-15 15:42:48,806 INFO marking-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.102:7004:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:42:48,806 INFO [IP-UPDATED] dom: marking-center, ips: 192.168.1.102:7004_true,
+
+2019-09-15 15:42:57,101 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@3c063b35 {POS} {IP-UPDATE} [192.168.1.102:7002:unknown_1.0_true_false_DEFAULT], action: add
+
+2019-09-15 15:42:57,101 INFO goods-center {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.102:7002:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:42:57,101 INFO [IP-UPDATED] dom: goods-center, ips: 192.168.1.102:7002_true,
+
+2019-09-15 15:43:40,829 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@7b62e4b1 {POS} {IP-UPDATE} [192.168.1.102:7000:unknown_1.0_true_false_DEFAULT], action: remove
+
+2019-09-15 15:43:40,829 INFO dom: user-center {POS} {IP-REMV} new: [{"app":"","clusterName":"DEFAULT","enabled":true,"instanceId":"","ip":"192.168.1.102","lastBeat":1568533420828,"marked":false,"metadata":{},"port":7000,"serviceName":"","tenant":"","valid":true,"weight":1}] operatorIP: unknown
+
+2019-09-15 15:43:40,829 INFO user-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.102:7000:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:43:40,829 INFO [IP-UPDATED] dom: user-center, ips: 
+
+2019-09-15 15:43:40,874 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@5843f568 {POS} {IP-UPDATE} [192.168.1.102:8080:unknown_1.0_true_false_DEFAULT], action: remove
+
+2019-09-15 15:43:40,874 INFO dom: api-gateway {POS} {IP-REMV} new: [{"app":"","clusterName":"DEFAULT","enabled":true,"instanceId":"","ip":"192.168.1.102","lastBeat":1568533420874,"marked":false,"metadata":{},"port":8080,"serviceName":"","tenant":"","valid":true,"weight":1}] operatorIP: unknown
+
+2019-09-15 15:43:40,874 INFO api-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.102:8080:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:43:40,874 INFO [IP-UPDATED] dom: api-gateway, ips: 
+
+2019-09-15 15:43:40,933 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@43c7bdc7 {POS} {IP-UPDATE} [192.168.1.102:7003:unknown_1.0_true_false_DEFAULT], action: remove
+
+2019-09-15 15:43:40,933 INFO dom: order-center {POS} {IP-REMV} new: [{"app":"","clusterName":"DEFAULT","enabled":true,"instanceId":"","ip":"192.168.1.102","lastBeat":1568533420932,"marked":false,"metadata":{},"port":7003,"serviceName":"","tenant":"","valid":true,"weight":1}] operatorIP: unknown
+
+2019-09-15 15:43:40,933 INFO order-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.102:7003:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:43:40,933 INFO [IP-UPDATED] dom: order-center, ips: 
+
+2019-09-15 15:43:41,037 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@3c063b35 {POS} {IP-UPDATE} [192.168.1.102:7002:unknown_1.0_true_false_DEFAULT], action: remove
+
+2019-09-15 15:43:41,037 INFO dom: goods-center {POS} {IP-REMV} new: [{"app":"","clusterName":"DEFAULT","enabled":true,"instanceId":"","ip":"192.168.1.102","lastBeat":1568533421037,"marked":false,"metadata":{},"port":7002,"serviceName":"","tenant":"","valid":true,"weight":1}] operatorIP: unknown
+
+2019-09-15 15:43:41,037 INFO goods-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.102:7002:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:43:41,037 INFO [IP-UPDATED] dom: goods-center, ips: 
+
+2019-09-15 15:43:41,082 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@6a1299d8 {POS} {IP-UPDATE} [192.168.1.102:7004:unknown_1.0_true_false_DEFAULT], action: remove
+
+2019-09-15 15:43:41,082 INFO dom: marking-center {POS} {IP-REMV} new: [{"app":"","clusterName":"DEFAULT","enabled":true,"instanceId":"","ip":"192.168.1.102","lastBeat":1568533421082,"marked":false,"metadata":{},"port":7004,"serviceName":"","tenant":"","valid":true,"weight":1}] operatorIP: unknown
+
+2019-09-15 15:43:41,082 INFO marking-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.102:7004:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:43:41,082 INFO [IP-UPDATED] dom: marking-center, ips: 
+
+2019-09-15 15:43:41,133 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@3b38be00 {POS} {IP-UPDATE} [192.168.1.102:7005:unknown_1.0_true_false_DEFAULT], action: remove
+
+2019-09-15 15:43:41,133 INFO dom: cms-center {POS} {IP-REMV} new: [{"app":"","clusterName":"DEFAULT","enabled":true,"instanceId":"","ip":"192.168.1.102","lastBeat":1568533421133,"marked":false,"metadata":{},"port":7005,"serviceName":"","tenant":"","valid":true,"weight":1}] operatorIP: unknown
+
+2019-09-15 15:43:41,133 INFO cms-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.102:7005:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:43:41,133 INFO [IP-UPDATED] dom: cms-center, ips: 
+
+2019-09-15 15:43:41,188 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@6800f335 {POS} {IP-UPDATE} [192.168.1.102:8000:unknown_1.0_true_false_DEFAULT], action: remove
+
+2019-09-15 15:43:41,188 INFO dom: uaa-server {POS} {IP-REMV} new: [{"app":"","clusterName":"DEFAULT","enabled":true,"instanceId":"","ip":"192.168.1.102","lastBeat":1568533421187,"marked":false,"metadata":{},"port":8000,"serviceName":"","tenant":"","valid":true,"weight":1}] operatorIP: unknown
+
+2019-09-15 15:43:41,188 INFO uaa-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.102:8000:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:43:41,188 INFO [IP-UPDATED] dom: uaa-server, ips: 
+
+2019-09-15 15:43:41,681 INFO com.alibaba.nacos.naming.core.VirtualClusterDomain@2735f507 {POS} {IP-UPDATE} [192.168.1.102:7001:unknown_1.0_true_false_DEFAULT], action: remove
+
+2019-09-15 15:43:41,681 INFO dom: member-center {POS} {IP-REMV} new: [{"app":"","clusterName":"DEFAULT","enabled":true,"instanceId":"","ip":"192.168.1.102","lastBeat":1568533421680,"marked":false,"metadata":{},"port":7001,"serviceName":"","tenant":"","valid":true,"weight":1}] operatorIP: unknown
+
+2019-09-15 15:43:41,681 INFO member-center {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.102:7001:unknown_1.0_true_false_DEFAULT]
+
+2019-09-15 15:43:41,681 INFO [IP-UPDATED] dom: member-center, ips: 
+

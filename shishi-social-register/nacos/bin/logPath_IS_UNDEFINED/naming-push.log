@@ -1,0 +1,628 @@
+2019-09-15 14:48:40,672 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:49:00,677 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:49:20,682 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 14:49:40,687 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:50:00,693 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:50:20,699 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 14:50:40,704 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 14:51:00,710 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:51:20,716 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:51:40,722 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 14:52:00,727 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:52:20,734 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:52:40,739 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 14:53:00,746 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 14:53:20,752 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:53:40,758 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:54:00,763 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 14:54:20,770 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:54:40,776 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:55:00,782 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 14:55:20,788 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 14:55:40,790 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:56:00,794 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 14:56:20,799 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 14:56:40,803 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:57:00,808 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:57:20,814 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 14:57:40,819 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:58:00,825 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:58:20,830 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 14:58:40,835 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 14:59:00,841 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:59:20,846 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 14:59:40,850 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:00:00,855 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:00:20,861 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:00:40,866 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 15:01:00,872 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:01:20,877 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:01:40,883 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:02:00,889 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:02:20,893 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:02:40,898 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:03:00,902 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 15:03:20,907 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:03:40,909 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:04:00,915 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:04:20,920 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:04:40,926 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:05:00,930 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:05:20,936 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 15:05:40,941 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:06:00,947 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:06:20,953 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:06:40,958 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:07:00,964 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:07:20,970 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:07:40,976 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 15:08:00,981 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:08:20,984 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:08:40,989 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:09:00,995 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:09:21,000 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:09:41,006 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:10:01,012 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 15:10:21,017 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:10:41,008 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:11:01,010 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:11:21,014 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:11:41,020 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:12:01,026 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:12:21,032 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 15:12:41,035 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:13:01,042 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:13:21,046 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:13:41,052 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:14:01,058 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:14:21,064 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:14:41,070 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 15:15:01,076 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:15:21,082 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:15:41,088 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:16:01,093 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:16:21,099 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:16:41,104 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:17:01,110 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 15:17:21,116 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:17:41,120 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:18:01,126 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:18:21,132 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:18:41,138 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:19:01,144 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:19:21,150 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 15:19:41,156 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:20:01,162 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:20:21,166 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:20:41,173 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:21:01,178 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:21:21,184 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:21:41,191 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 15:22:01,197 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:22:21,203 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:22:41,209 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:23:01,215 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:23:21,222 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:23:41,227 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:24:01,233 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 15:24:21,240 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:24:41,245 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:25:01,251 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:25:21,256 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:25:41,262 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:26:01,267 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:26:21,264 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 15:26:41,260 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:27:01,264 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:27:21,269 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:27:41,274 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:28:01,280 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:28:21,286 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:28:41,292 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 15:29:01,298 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:29:21,304 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:29:41,311 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:30:01,316 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:30:21,321 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:30:41,328 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:31:01,331 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 15:31:21,337 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:31:41,343 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:32:01,349 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:32:21,356 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:32:41,361 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:33:01,367 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:33:21,372 INFO [NACOS-PUSH] clientMap size: 2
+
+2019-09-15 15:33:41,378 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:34:01,384 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:34:21,390 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:34:41,396 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:35:01,402 INFO [NACOS-PUSH] clientMap size: 9
+
+2019-09-15 15:35:03,879 INFO uaa-server is changed, add it to push queue.
+
+2019-09-15 15:35:03,972 INFO order-center is changed, add it to push queue.
+
+2019-09-15 15:35:04,036 INFO member-center is changed, add it to push queue.
+
+2019-09-15 15:35:04,094 INFO goods-center is changed, add it to push queue.
+
+2019-09-15 15:35:04,151 INFO marking-center is changed, add it to push queue.
+
+2019-09-15 15:35:04,199 INFO cms-center is changed, add it to push queue.
+
+2019-09-15 15:35:04,290 INFO user-center is changed, add it to push queue.
+
+2019-09-15 15:35:04,291 INFO dom: user-center changed, schedule push for: 192.168.1.102:53772, agent: Nacos-Java-Client:v0.2.1, key: 192.168.1.102,53772,7369941182930
+
+2019-09-15 15:35:04,291 INFO send udp packet: 192.168.1.102,53772,7369941182930
+
+2019-09-15 15:35:14,295 INFO retry to push data, key: 192.168.1.102,53772,7369941182930
+
+2019-09-15 15:35:14,295 INFO send udp packet: 192.168.1.102,53772,7369941182930
+
+2019-09-15 15:35:14,886 INFO api-gateway is changed, add it to push queue.
+
+2019-09-15 15:35:21,405 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:35:24,300 INFO retry to push data, key: 192.168.1.102,53772,7369941182930
+
+2019-09-15 15:35:24,301 WARN max re-push times reached, retry times 2, key: 192.168.1.102,53772,7369941182930
+
+2019-09-15 15:35:29,909 INFO api-gateway is changed, add it to push queue.
+
+2019-09-15 15:35:41,406 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:36:01,410 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:36:21,415 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:36:41,420 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:37:01,424 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:37:21,427 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:37:41,432 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:38:01,436 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:38:21,438 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:38:41,443 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:39:01,447 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:39:21,452 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:39:41,456 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:40:01,462 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:40:21,467 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:40:41,471 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:40:52,497 INFO uaa-server is changed, add it to push queue.
+
+2019-09-15 15:41:01,473 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:41:21,478 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:41:28,870 INFO cms-center is changed, add it to push queue.
+
+2019-09-15 15:41:41,035 INFO api-gateway is changed, add it to push queue.
+
+2019-09-15 15:41:41,484 INFO [NACOS-PUSH] clientMap size: 6
+
+2019-09-15 15:42:01,487 INFO [NACOS-PUSH] clientMap size: 7
+
+2019-09-15 15:42:17,313 INFO user-center is changed, add it to push queue.
+
+2019-09-15 15:42:17,313 INFO dom: user-center changed, schedule push for: 192.168.1.102:62841, agent: Nacos-Java-Client:v0.2.1, key: 192.168.1.102,62841,7802972510254
+
+2019-09-15 15:42:17,313 INFO send udp packet: 192.168.1.102,62841,7802972510254
+
+2019-09-15 15:42:17,320 INFO received ack: {"type": "push-ack", "lastRefTime":"7802972510254", "data":""} from: 192.168.1.102:, cost: 62841 ms, unacked: 7, total push: 0
+
+2019-09-15 15:42:21,468 INFO [NACOS-PUSH] clientMap size: 7
+
+2019-09-15 15:42:26,827 INFO order-center is changed, add it to push queue.
+
+2019-09-15 15:42:26,828 INFO dom: order-center changed, schedule push for: 192.168.1.102:62841, agent: Nacos-Java-Client:v0.2.1, key: 192.168.1.102,62841,7812492392721
+
+2019-09-15 15:42:26,828 INFO send udp packet: 192.168.1.102,62841,7812492392721
+
+2019-09-15 15:42:26,829 INFO received ack: {"type": "push-ack", "lastRefTime":"7812492392721", "data":""} from: 192.168.1.102:, cost: 62841 ms, unacked: 1, total push: 0
+
+2019-09-15 15:42:37,756 INFO member-center is changed, add it to push queue.
+
+2019-09-15 15:42:37,757 INFO dom: member-center changed, schedule push for: 192.168.1.102:62841, agent: Nacos-Java-Client:v0.2.1, key: 192.168.1.102,62841,7823424796122
+
+2019-09-15 15:42:37,757 INFO send udp packet: 192.168.1.102,62841,7823424796122
+
+2019-09-15 15:42:37,759 INFO received ack: {"type": "push-ack", "lastRefTime":"7823424796122", "data":""} from: 192.168.1.102:, cost: 62841 ms, unacked: 2, total push: 0
+
+2019-09-15 15:42:41,466 INFO [NACOS-PUSH] clientMap size: 7
+
+2019-09-15 15:42:49,810 INFO marking-center is changed, add it to push queue.
+
+2019-09-15 15:42:49,811 INFO dom: marking-center changed, schedule push for: 192.168.1.102:62841, agent: Nacos-Java-Client:v0.2.1, key: 192.168.1.102,62841,7835479944311
+
+2019-09-15 15:42:49,811 INFO send udp packet: 192.168.1.102,62841,7835479944311
+
+2019-09-15 15:42:49,813 INFO received ack: {"type": "push-ack", "lastRefTime":"7835479944311", "data":""} from: 192.168.1.102:, cost: 62841 ms, unacked: 2, total push: 0
+
+2019-09-15 15:42:58,105 INFO goods-center is changed, add it to push queue.
+
+2019-09-15 15:42:58,106 INFO dom: goods-center changed, schedule push for: 192.168.1.102:62841, agent: Nacos-Java-Client:v0.2.1, key: 192.168.1.102,62841,7843775700966
+
+2019-09-15 15:42:58,106 INFO send udp packet: 192.168.1.102,62841,7843775700966
+
+2019-09-15 15:42:58,108 INFO received ack: {"type": "push-ack", "lastRefTime":"7843775700966", "data":""} from: 192.168.1.102:, cost: 62841 ms, unacked: 2, total push: 0
+
+2019-09-15 15:43:01,468 INFO [NACOS-PUSH] clientMap size: 7
+
+2019-09-15 15:43:21,473 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:43:41,479 INFO [NACOS-PUSH] clientMap size: 8
+
+2019-09-15 15:43:41,832 INFO user-center is changed, add it to push queue.
+
+2019-09-15 15:43:41,833 INFO dom: user-center changed, schedule push for: 192.168.1.102:62841, agent: Nacos-Java-Client:v0.2.1, key: 192.168.1.102,62841,7887501907208
+
+2019-09-15 15:43:41,833 INFO send udp packet: 192.168.1.102,62841,7887501907208
+
+2019-09-15 15:43:41,833 INFO dom: user-center changed, schedule push for: 192.168.1.102:56496, agent: Nacos-Java-Client:v0.2.1, key: 192.168.1.102,56496,7887501907208
+
+2019-09-15 15:43:41,833 INFO send udp packet: 192.168.1.102,56496,7887501907208
+
+2019-09-15 15:43:41,876 INFO api-gateway is changed, add it to push queue.
+
+2019-09-15 15:43:41,935 INFO order-center is changed, add it to push queue.
+
+2019-09-15 15:43:41,936 INFO dom: order-center changed, schedule push for: 192.168.1.102:62841, agent: Nacos-Java-Client:v0.2.1, key: 192.168.1.102,62841,7887604844998
+
+2019-09-15 15:43:41,936 INFO send udp packet: 192.168.1.102,62841,7887604844998
+
+2019-09-15 15:43:42,038 INFO goods-center is changed, add it to push queue.
+
+2019-09-15 15:43:42,038 INFO dom: goods-center changed, schedule push for: 192.168.1.102:62841, agent: Nacos-Java-Client:v0.2.1, key: 192.168.1.102,62841,7887707265172
+
+2019-09-15 15:43:42,038 INFO send udp packet: 192.168.1.102,62841,7887707265172
+
+2019-09-15 15:43:42,085 INFO marking-center is changed, add it to push queue.
+
+2019-09-15 15:43:42,085 INFO dom: marking-center changed, schedule push for: 192.168.1.102:62841, agent: Nacos-Java-Client:v0.2.1, key: 192.168.1.102,62841,7887753888835
+
+2019-09-15 15:43:42,085 INFO send udp packet: 192.168.1.102,62841,7887753888835
+
+2019-09-15 15:43:42,138 INFO cms-center is changed, add it to push queue.
+
+2019-09-15 15:43:42,138 INFO dom: cms-center changed, schedule push for: 192.168.1.102:62841, agent: Nacos-Java-Client:v0.2.1, key: 192.168.1.102,62841,7887807134206
+
+2019-09-15 15:43:42,138 INFO send udp packet: 192.168.1.102,62841,7887807134206
+
+2019-09-15 15:43:42,188 INFO uaa-server is changed, add it to push queue.
+
+2019-09-15 15:43:42,188 INFO dom: uaa-server changed, schedule push for: 192.168.1.102:62841, agent: Nacos-Java-Client:v0.2.1, key: 192.168.1.102,62841,7887857505834
+
+2019-09-15 15:43:42,188 INFO send udp packet: 192.168.1.102,62841,7887857505834
+
+2019-09-15 15:43:42,682 INFO member-center is changed, add it to push queue.
+
+2019-09-15 15:43:42,683 INFO dom: member-center changed, schedule push for: 192.168.1.102:62841, agent: Nacos-Java-Client:v0.2.1, key: 192.168.1.102,62841,7888351764882
+
+2019-09-15 15:43:42,683 INFO send udp packet: 192.168.1.102,62841,7888351764882
+
+2019-09-15 15:43:51,836 INFO retry to push data, key: 192.168.1.102,62841,7887501907208
+
+2019-09-15 15:43:51,836 INFO send udp packet: 192.168.1.102,62841,7887501907208
+
+2019-09-15 15:43:51,837 INFO retry to push data, key: 192.168.1.102,56496,7887501907208
+
+2019-09-15 15:43:51,837 INFO send udp packet: 192.168.1.102,56496,7887501907208
+
+2019-09-15 15:43:51,940 INFO retry to push data, key: 192.168.1.102,62841,7887604844998
+
+2019-09-15 15:43:51,940 INFO send udp packet: 192.168.1.102,62841,7887604844998
+
+2019-09-15 15:43:52,040 INFO retry to push data, key: 192.168.1.102,62841,7887707265172
+
+2019-09-15 15:43:52,040 INFO send udp packet: 192.168.1.102,62841,7887707265172
+
+2019-09-15 15:43:52,086 INFO retry to push data, key: 192.168.1.102,62841,7887753888835
+
+2019-09-15 15:43:52,086 INFO send udp packet: 192.168.1.102,62841,7887753888835
+
+2019-09-15 15:43:52,143 INFO retry to push data, key: 192.168.1.102,62841,7887807134206
+
+2019-09-15 15:43:52,143 INFO send udp packet: 192.168.1.102,62841,7887807134206
+
+2019-09-15 15:43:52,192 INFO retry to push data, key: 192.168.1.102,62841,7887857505834
+
+2019-09-15 15:43:52,192 INFO send udp packet: 192.168.1.102,62841,7887857505834
+
+2019-09-15 15:43:52,683 INFO retry to push data, key: 192.168.1.102,62841,7888351764882
+
+2019-09-15 15:43:52,684 INFO send udp packet: 192.168.1.102,62841,7888351764882
+
+2019-09-15 15:44:01,483 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:44:01,842 INFO retry to push data, key: 192.168.1.102,62841,7887501907208
+
+2019-09-15 15:44:01,842 WARN max re-push times reached, retry times 2, key: 192.168.1.102,62841,7887501907208
+
+2019-09-15 15:44:01,842 INFO retry to push data, key: 192.168.1.102,56496,7887501907208
+
+2019-09-15 15:44:01,842 WARN max re-push times reached, retry times 2, key: 192.168.1.102,56496,7887501907208
+
+2019-09-15 15:44:01,946 INFO retry to push data, key: 192.168.1.102,62841,7887604844998
+
+2019-09-15 15:44:01,946 WARN max re-push times reached, retry times 2, key: 192.168.1.102,62841,7887604844998
+
+2019-09-15 15:44:02,044 INFO retry to push data, key: 192.168.1.102,62841,7887707265172
+
+2019-09-15 15:44:02,044 WARN max re-push times reached, retry times 2, key: 192.168.1.102,62841,7887707265172
+
+2019-09-15 15:44:02,091 INFO retry to push data, key: 192.168.1.102,62841,7887753888835
+
+2019-09-15 15:44:02,091 WARN max re-push times reached, retry times 2, key: 192.168.1.102,62841,7887753888835
+
+2019-09-15 15:44:02,149 INFO retry to push data, key: 192.168.1.102,62841,7887807134206
+
+2019-09-15 15:44:02,149 WARN max re-push times reached, retry times 2, key: 192.168.1.102,62841,7887807134206
+
+2019-09-15 15:44:02,193 INFO retry to push data, key: 192.168.1.102,62841,7887857505834
+
+2019-09-15 15:44:02,193 WARN max re-push times reached, retry times 2, key: 192.168.1.102,62841,7887857505834
+
+2019-09-15 15:44:02,687 INFO retry to push data, key: 192.168.1.102,62841,7888351764882
+
+2019-09-15 15:44:02,687 WARN max re-push times reached, retry times 2, key: 192.168.1.102,62841,7888351764882
+
+2019-09-15 15:44:21,487 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:44:41,490 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:45:01,495 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:45:21,497 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:45:41,502 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:46:01,508 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:46:21,513 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:46:41,518 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:47:01,522 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:47:21,527 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:47:41,533 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:48:01,537 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:48:21,540 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:48:41,541 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:49:01,543 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:49:21,544 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:49:41,549 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:50:01,553 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:50:21,554 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:50:41,559 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:51:01,563 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:51:21,567 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:51:41,572 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:52:01,577 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:52:21,580 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:52:41,586 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:53:01,591 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:53:21,594 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:53:41,598 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:54:01,603 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:54:21,605 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:54:41,607 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:55:01,612 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:55:21,617 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:55:41,620 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:56:01,625 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:56:21,630 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:56:41,632 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:57:01,631 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:57:21,628 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:57:41,631 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:58:01,635 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:58:21,636 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:58:41,637 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:59:01,639 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:59:21,644 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 15:59:41,648 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 16:00:01,649 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 16:00:21,653 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 16:00:41,654 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 16:01:01,659 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 16:01:21,665 INFO [NACOS-PUSH] clientMap size: 0
+
+2019-09-15 16:01:41,670 INFO [NACOS-PUSH] clientMap size: 0
+

@@ -1,0 +1,52 @@
+2019-09-15 14:50:47,770 INFO [capacityManagement] start correct usage
+
+2019-09-15 14:50:47,772 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-09-15 14:50:47,960 WARN clearConfigHistory start
+
+2019-09-15 15:00:47,787 INFO [capacityManagement] start correct usage
+
+2019-09-15 15:00:47,789 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-09-15 15:00:47,978 WARN clearConfigHistory start
+
+2019-09-15 15:10:47,795 INFO [capacityManagement] start correct usage
+
+2019-09-15 15:10:47,796 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-09-15 15:10:47,985 WARN clearConfigHistory start
+
+2019-09-15 15:20:47,816 INFO [capacityManagement] start correct usage
+
+2019-09-15 15:20:47,817 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-09-15 15:20:48,010 WARN clearConfigHistory start
+
+2019-09-15 15:30:47,816 INFO [capacityManagement] start correct usage
+
+2019-09-15 15:30:47,818 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-09-15 15:30:48,012 WARN clearConfigHistory start
+
+2019-09-15 15:40:47,836 INFO [capacityManagement] start correct usage
+
+2019-09-15 15:40:47,838 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-09-15 15:40:48,034 WARN clearConfigHistory start
+
+2019-09-15 15:42:45,787 INFO Expired JWT token.
+
+2019-09-15 15:42:45,800 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2019-09-15 15:50:47,822 INFO [capacityManagement] start correct usage
+
+2019-09-15 15:50:47,824 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-09-15 15:50:48,018 WARN clearConfigHistory start
+
+2019-09-15 16:00:47,830 INFO [capacityManagement] start correct usage
+
+2019-09-15 16:00:47,832 INFO [capacityManagement] end correct usage, cost: 0s
+
+2019-09-15 16:00:48,025 WARN clearConfigHistory start
+
