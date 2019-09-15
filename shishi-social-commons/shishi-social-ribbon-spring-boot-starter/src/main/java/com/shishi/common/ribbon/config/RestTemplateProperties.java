@@ -12,7 +12,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
  */
 @Setter
 @Getter
-@ConfigurationProperties(prefix = "shishi.rest-template")
+@ConfigurationProperties(prefix = "shishi-social.rest-template")
 public class RestTemplateProperties {
     /**
      * 最大链接数

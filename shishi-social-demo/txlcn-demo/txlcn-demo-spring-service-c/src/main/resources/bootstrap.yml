@@ -1,7 +1,7 @@
 server:
   port: 12003
 
-mall:
+shishi-social:
   nacos:
     server-addr: localhost:8848
 
@@ -11,4 +11,4 @@ spring:
   cloud:
     nacos:
       discovery:
-        server-addr: ${mall.nacos.server-addr}
+        server-addr: ${shishi-social.nacos.server-addr}

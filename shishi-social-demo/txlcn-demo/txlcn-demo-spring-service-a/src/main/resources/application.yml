@@ -1,9 +1,9 @@
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://${mall.datasource.ip}:3306/txlcn-demo?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&zeroDateTimeBehavior=convertToNull
-    username: ${mall.datasource.username}
-    password: ${mall.datasource.password}
+    url: jdbc:mysql://${shishi-social.datasource.ip}:3306/txlcn-demo?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&zeroDateTimeBehavior=convertToNull
+    username: ${shishi-social.datasource.username}
+    password: ${shishi-social.datasource.password}
 
 ## tx-manager 配置
 tx-lcn:
@@ -14,6 +14,6 @@ tx-lcn:
   logger:
     enabled: true
     driver-class-name: com.mysql.jdbc.Driver
-    jdbc-url: jdbc:mysql://${mall.datasource.ip}:3306/tx_logger?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&zeroDateTimeBehavior=convertToNull
-    username: ${mall.datasource.username}
-    password: ${mall.datasource.password}
+    jdbc-url: jdbc:mysql://${shishi-social.datasource.ip}:3306/tx_logger?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&zeroDateTimeBehavior=convertToNull
+    username: ${shishi-social.datasource.username}
+    password: ${shishi-social.datasource.password}

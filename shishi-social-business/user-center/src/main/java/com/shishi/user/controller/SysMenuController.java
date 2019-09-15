@@ -30,10 +30,10 @@ import java.util.List;
 @Slf4j
 @RequestMapping("/sys/SysPermission")
 public class SysMenuController {
+
+
     @Autowired
     private ISysMenuService menuService;
-
-
 
     /**
      * 删除菜单

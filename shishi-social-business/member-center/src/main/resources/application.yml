@@ -1,25 +1,25 @@
 spring:
   datasource:
-    url: jdbc:mysql://${mall.datasource.ip}:3306/shishi-social?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&zeroDateTimeBehavior=convertToNull
-    username: ${mall.datasource.username}
-    password: ${mall.datasource.password}
+    url: jdbc:mysql://${shishi-social.datasource.ip}:3306/shishi-social?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&zeroDateTimeBehavior=convertToNull
+    username: ${shishi-social.datasource.username}
+    password: ${shishi-social.datasource.password}
     driver-class-name: com.mysql.jdbc.Driver
 
 mybatis-plus:
   mapper-locations: classpath:/mapper/*.xml
   #实体扫描，多个package用逗号或者分号分隔
-  typeAliasesPackage: com.mallplus.member.entity
+  typeAliasesPackage: com.shishi.member.entity
   global-config:
     db-config:
       id-type: auto
 
-mall:
+shishi-social:
   swagger:
     enabled: true
     title: 会员中心
     description: 会员中心接口文档
     version: 1.0
-    base-package: com.mallplus.member.controller
+    base-package: com.shishi.member.controller
   cache-manager:
     configs:
       - key: menu
@@ -60,7 +60,7 @@ aliyun:
         bucketName: zscat-oss
         callback: http://localhost:8080/aliyun/oss/callback
         dir:
-            prefix: mall/images/
+            prefix: shishi-social/images/
         endpoint: oss-cn-shenzhen.aliyuncs.com
         maxSize: 10
         policy:

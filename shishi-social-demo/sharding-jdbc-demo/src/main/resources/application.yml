@@ -7,7 +7,7 @@ spring:
   application:
     name: sharding-jdbc-demo
 
-mall:
+shishi-social:
   datasource:
     ip: localhost
     username: root

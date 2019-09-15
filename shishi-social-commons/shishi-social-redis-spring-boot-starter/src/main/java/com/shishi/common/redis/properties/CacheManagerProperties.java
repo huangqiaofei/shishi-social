@@ -12,7 +12,7 @@ import java.util.List;
  */
 @Setter
 @Getter
-@ConfigurationProperties(prefix = "shishi.cache-manager")
+@ConfigurationProperties(prefix = "shishi-social.cache-manager")
 public class CacheManagerProperties {
     private List<CacheConfig> configs;
 

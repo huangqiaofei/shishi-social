@@ -1,19 +1,19 @@
 spring:
   datasource:
-    url: jdbc:mysql://${mall.datasource.ip}:3306/shishi-social?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&zeroDateTimeBehavior=convertToNull
-    username: ${mall.datasource.username}
-    password: ${mall.datasource.password}
+    url: jdbc:mysql://${shishi-social.datasource.ip}:3306/shishi-social?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&zeroDateTimeBehavior=convertToNull
+    username: ${shishi-social.datasource.username}
+    password: ${shishi-social.datasource.password}
     driver-class-name: com.mysql.jdbc.Driver
 
 mybatis-plus:
   mapper-locations: classpath:/mapper/*Mapper.xml
   #实体扫描，多个package用逗号或者分号分隔
-  typeAliasesPackage: com.central.oauth.model
+  typeAliasesPackage: com.shishi.oauth.model
   global-config:
     db-config:
       id-type: auto
 
-mall:
+shishi-social:
   oauth2:
     token:
       store:

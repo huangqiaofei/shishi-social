@@ -26,8 +26,8 @@ import java.util.stream.Collectors;
 @Slf4j
 @Service
 public class SysMenuServiceImpl extends ServiceImpl<SysMenuMapper, SysPermission> implements ISysMenuService {
- 	@Resource
-	private SysRolePermissionMapper sysRoleMenuMapper;
+
+
 	@Override
 	public int updateShowStatus(List<Long> ids, Integer showStatus) {
 		SysPermission productCategory = new SysPermission();

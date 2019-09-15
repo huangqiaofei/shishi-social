@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
  * @date 2018/12/10
  */
 @Configuration
-@MapperScan({"com.central.file.mapper*"})
+@MapperScan({"com.shishi.file.mapper*"})
 public class MybatisPlusConfig extends DefaultMybatisPlusConfig {
 
 }

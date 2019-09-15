@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Configuration;
  * @date 2018/12/10
  */
 @Configuration
-@MapperScan({"com.central.user.mapper*"})
+@MapperScan({"com.shishi.user.mapper*"})
 public class MybatisPlusConfig extends DefaultMybatisPlusConfig {
     /**
      * 逻辑删除注入器

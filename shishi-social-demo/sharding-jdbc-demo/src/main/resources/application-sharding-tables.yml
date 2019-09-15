@@ -5,9 +5,9 @@ sharding:
       ds:
         type: com.alibaba.druid.pool.DruidDataSource
         driver-class-name: com.mysql.jdbc.Driver
-        url: jdbc:mysql://${mall.datasource.ip}:3306/demo_ds?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&zeroDateTimeBehavior=convertToNull
-        username: ${mall.datasource.username}
-        password: ${mall.datasource.password}
+        url: jdbc:mysql://${shishi-social.datasource.ip}:3306/demo_ds?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&zeroDateTimeBehavior=convertToNull
+        username: ${shishi-social.datasource.username}
+        password: ${shishi-social.datasource.password}
     config:
       sharding:
         tables:

@@ -1,7 +1,7 @@
 server:
   port: 7200
 
-mall:
+shishi-social:
   nacos:
     server-addr: localhost:8848
 
@@ -11,9 +11,9 @@ spring:
   cloud:
     nacos:
       config:
-        server-addr: ${mall.nacos.server-addr}
+        server-addr: ${shishi-social.nacos.server-addr}
         file-extension: yml
         shared-dataids: common.yml
         refreshable-dataids: common.yml
       discovery:
-        server-addr: ${mall.nacos.server-addr}
+        server-addr: ${shishi-social.nacos.server-addr}
