@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.shishi</groupId>
+        <artifactId>shishi-social</artifactId>
+        <version>1.0.0</version>
+    </parent>
+    <artifactId>shishi-social-commons</artifactId>
+    <description>通用组件</description>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>shishi-social-redis-spring-boot-starter</module>
+        <module>shishi-social-common-spring-boot-starter</module>
+        <module>shishi-social-db-spring-boot-starter</module>
+        <module>shishi-social-swagger2-spring-boot-starter</module>
+        <module>shishi-social-log-spring-boot-starter</module>
+        <module>shishi-social-ribbon-spring-boot-starter</module>
+        <module>shishi-social-auth-client-spring-boot-starter</module>
+        <module>shishi-social-sentinel-spring-boot-starter</module>
+    </modules>
+</project>

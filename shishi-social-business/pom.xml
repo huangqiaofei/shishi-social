@@ -21,6 +21,7 @@
 		<module>order-center</module>
 		<module>marking-center</module>
 		<module>cms-center</module>
+		<module>char-room</module>
 
 	</modules>
 </project>
